@@ -17,6 +17,7 @@ A Python module that maps credit scores to bands, checks loan eligibility by age
 | `BranchCoverageTest_PES1UG24AM026_application.py` | Comprehensive branch coverage suite (>= 90%, achieved 100%) |
 | `pytest.ini` | Pytest configuration for test discovery |
 | `screenshots/lab6/` | Directory containing terminal coverage report screenshots |
+| `Lab6_Final_Report_PES1UG24AM026.pdf` | Final lab report document |
 
 ## Execution & Verification Commands
 
